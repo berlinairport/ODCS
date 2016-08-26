@@ -1,2 +1,2 @@
-# kioskOS - Open Display Controller System
-kiosk OS based on Debian GNU/Linux
+# ODCS - Open Display Controller System
+ODCS based on Debian GNU/Linux
